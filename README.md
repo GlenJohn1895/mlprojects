@@ -1,1 +1,1 @@
-## End to End Machine learning Pgit roject
+## Machine learning Pgit roject
